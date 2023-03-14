@@ -1,1 +1,1 @@
-web: gunicorn app:fongbe_kwe_api.py
+web: gunicorn fongbe_kwe_api:app
